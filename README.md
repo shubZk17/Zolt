@@ -1,4 +1,4 @@
-# 🚀 Zolt - AI-Powered Full-Stack Development Environment
+# Zolt - AI-Powered Full-Stack Development Environment
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
