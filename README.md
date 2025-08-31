@@ -1,9 +1,9 @@
-#Zolt — AI-Powered Frontend Development Environment
+## **Zolt — AI-Powered Frontend Development Environment**
 
 Zolt is an AI-assisted frontend development environment that runs entirely in your browser. It transforms natural language prompts into React + TypeScript + Tailwind components, with a smooth developer experience powered by Vite and the Monaco Editor.
 (I built the interface myself, with some help from AI for parts of the design and setup.)
 
-✨ Current Features
+ # **✨ Current Features**
 
 Natural Language → Code: Generate functional React components from plain English.
 
@@ -15,7 +15,7 @@ Live Preview: Side-by-side editor and rendered output.
 
 File Management: Create and organize multiple project files.
 
-🔮 Roadmap
+#**🔮 Roadmap**
 
 Zolt is frontend-only right now. Planned additions:
 
@@ -27,7 +27,7 @@ Authentication & Payments (Clerk, Auth0, Stripe)
 
 Mobile apps (React Native with Expo)
 
-🛠️ Tech Stack
+# **🛠️ Tech Stack**
 
 React • TypeScript • Vite • Tailwind CSS
 
